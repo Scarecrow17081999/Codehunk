@@ -1,0 +1,13 @@
+.FooterBottomDiv{
+    width: 100%;
+    background-color: darkblue;
+  
+}
+.FooterBottom{
+    width: 80%;
+    margin: auto;
+    color: white;
+}
+.FooterBottom>p{
+padding: 20px;
+}

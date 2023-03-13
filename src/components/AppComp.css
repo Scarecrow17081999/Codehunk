@@ -1,0 +1,20 @@
+.AppComp{
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+
+    text-align: center;
+    margin: 0 auto;
+}
+.AppComp>div{
+    width: 100%;
+    margin: 0 auto;
+    padding: 35px;
+}
+.AppComp img{
+   width:100%;
+   border-radius: 50%;
+}
+p{
+
+}

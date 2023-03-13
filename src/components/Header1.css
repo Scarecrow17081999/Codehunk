@@ -1,0 +1,14 @@
+.Header1Div{
+    padding: 55px;
+    width: 100%;
+    display: flex;
+}
+.Header1Div a{
+cursor: pointer;
+}
+.Header1Div>div:nth-child(2){
+    margin: auto;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+}
